@@ -1,0 +1,15 @@
+h1 {color: blue; font-family: 'merriweather';font-size: 40pt;} 
+h2 {color: lightSkyBlue; font-size: 32pt;} 
+
+body {background: lightgrey; color: black; font-size: 25pt; font-family: 'indigo';}
+a:hover { color: blue }
+
+nav a {	display: inline-block;
+        	border: 4px solid navy;
+        	padding: 10px;
+		margin: 5px;
+		background: lightBlue;
+		font-family: 'merriweather';
+		font-size: 22pt;
+		color: black;}
+
